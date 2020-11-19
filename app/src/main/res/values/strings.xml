@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">geointeligencia_ANP</string>
+    <string name="title_tracking">Rastreo</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_share">Compartir</string>
+    <string name="tracking_start_button">INICIAR RASTREO</string>
+    <string name="tracking_pause_button">PAUSAR RASTREO</string>
+    <string name="tracking_stop_button">TERMINAR RASTREO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
